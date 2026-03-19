@@ -22,5 +22,7 @@ It uses an API to generate AI-based responses.
 
 ##  Project Structure
 MY CHATBOT
+
 |_____Backend
+
 |_____Frontend 
